@@ -1,0 +1,79 @@
+{
+    "info": {
+        "icon": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LeapSlam.png",
+        "fullName": "Leap Slam",
+        "typeLine": "Leap Slam",
+        "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+        "tokenized": {
+            "fullName": "leap slam",
+            "descrText": "place into an item socket of the right colour to gain this skill. right click to remove from a socket."
+        }
+    },
+    "shop": {
+        "added": 1465401646000,
+        "chaosEquiv": 0.1875,
+        "currency": "Orb of Alteration",
+        "defaultMessage": "@Hell_Gate I would like to buy your level 1 Leap Slam listed for 3 Orb of Alteration (League:Prophecy, Stash Tab:\"~b/o 3 alt\" [x2,y10])",
+        "lastCharacterName": "Hell_Gate",
+        "hasPrice": true,
+        "verified": "GONE",
+        "updated": 1465490847000,
+        "priceSource": "stashName",
+        "stash": {
+            "inventoryID": "Stash25",
+            "xLocation": "2",
+            "yLocation": "10",
+            "stashID": "799e10667ebdf6147e44deb9f2a67354d694e5fefd58aa2d32eb626c88b52938",
+            "stashName": "~b/o 3 alt"
+        },
+        "modified": 1465490847000,
+        "saleType": "b/o",
+        "amount": "3",
+        "shelfLife": 178362,
+        "sellerAccount": "inmyarms",
+        "price": {
+            "Orb of Alteration": 3
+        }
+    },
+    "mods": {
+        "Gem": {
+            "explicit": {
+                "#% chance to Knock Enemies Back on hit": 20
+            }
+        }
+    },
+    "requirements": {
+        "Level": 10,
+        "Str": 29
+    },
+    "attributes": {
+        "identified": true,
+        "equipType": "Gem",
+        "corrupted": false,
+        "ilvl": 0,
+        "baseItemType": "Gem",
+        "explicitModsCount": 1,
+        "inventoryHeight": 1,
+        "baseItemName": "Leap Slam",
+        "rarity": "Gem",
+        "mirrored": false,
+        "frameType": 4,
+        "league": "Prophecy",
+        "itemType": "Gem",
+        "inventoryWidth": 1,
+        "lockedToCharacter": false
+    },
+    "uuid": "1bd91d9990922f721895778ae0189f8757b55dd9530ccf428b8d00cef0eb61dd",
+    "properties": {
+        "Gem": {
+            "Level": "1",
+            "type": {
+                "Attack": true,
+                "AoE": true,
+                "Movement": true,
+                "Melee": true
+            },
+            "Mana Cost": 15
+        }
+    }
+}

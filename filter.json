@@ -1,0 +1,11 @@
+[{
+    "eq": {
+        "attributes.league": "Prophecy",
+        "shop.hasPrice": true,
+        "sockets.largestLinkGroup": 6
+    },
+    "lt": {
+        "shop.chaosEquiv": 13
+    }
+}
+]
